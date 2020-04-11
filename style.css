@@ -1,0 +1,21 @@
+body {
+  background-color :black;
+  ;
+}	
+
+div.static {
+  position: static;
+  border: 5px solid white;
+}
+h2 {
+  color: white;
+  
+}
+p {
+
+  color: white
+
+}
+ .class { 
+	font-family: Verdana,Geneva,sans-serif; 
+}
