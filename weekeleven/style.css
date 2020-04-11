@@ -1,0 +1,37 @@
+/* ----------- iPhone 6, 6S, 7 and 8 ----------- */
+
+/* Portrait */
+@media only screen 
+  and (min-device-width: 375px) 
+  and (max-device-width: 667px) 
+  and (-webkit-min-device-pixel-ratio: 2)
+  and (orientation: portrait) { 
+
+}
+
+body {
+  background-color: grey;
+}
+.monospace {
+  font-family: "Lucida Console", Courier, monospace;
+}
+
+@media only screen and (max-width: 667px) {
+  body {
+    background-color: #302E2D
+  }
+  h2 {
+  color: white;
+  
+}
+p {
+
+  color: white
+
+}
+.cursive {
+  font-family: cursive;
+  }
+}
+
+
