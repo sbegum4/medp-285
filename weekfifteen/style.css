@@ -1,0 +1,55 @@
+body {
+background: rgb(2,0,36);
+background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(9,9,121,1) 26%, rgba(0,212,255,1) 100%);
+}
+h1 {
+  color: white;
+  
+}
+p {
+
+  color: white;
+
+}
+p.cursive {
+  font-family: cursive;
+  font-size: 35px;
+  color : red;
+  }
+p {text-align: center;}
+
+ 
+
+figcaption {
+
+  color: white;
+
+}
+h2{
+
+  color: white;
+
+}
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: blue;
+}
+
+li {
+  float: left;
+}
+
+li a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+li a:hover {
+  background-color: #111;
+}
